@@ -1,2 +1,2 @@
 dil = "python3"
-run = "python3 -m cyber_installer"
+run = "python3 -m nexus_installer"
