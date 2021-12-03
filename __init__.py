@@ -30,9 +30,3 @@ def rm_r(path):
         os.unlink(path)
     else:
         shutil.rmtree(path)
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
