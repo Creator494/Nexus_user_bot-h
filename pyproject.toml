@@ -3,7 +3,7 @@
 name = "NexusUserBot_Deployer"
 version = "1.0"
 description = "Automatic Deploy NexusUserBot to Heroku"
-authors = ["Faridxz"]
+authors = ["NicatMehdi"]
 [tool.poetry.dependencies]
 python = "^3.8"
 bs4 = "*"
